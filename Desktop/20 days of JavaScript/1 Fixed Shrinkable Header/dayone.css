@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(100, 92, 92);
+    height: 80px;
+    width: 100%;
+    padding: 20px;
+    font-size: 35px;
+    position: fixed;
+}
+navbar {
+    padding-left: 500px;
+}
+a {
+    text-decoration: none;
+    padding-left: 35px;
+    color: #fff;
+}
+
+section {
+    padding-top: 125px;
+}
